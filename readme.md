@@ -28,7 +28,7 @@ yarn add bitfield-lib
 Базовый пример:
 
 ```typescript
-import { BitField } from 'bitfield-ts'
+import { BitField } from 'bitfields-lib'
 
 const FLAGS = {
 	READ: 1 << 0, // 0b0001
