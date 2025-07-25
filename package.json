@@ -1,6 +1,6 @@
 {
 	"name": "bitfields-lib",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Библиотека для работы с флагами",
 	"license": "MIT",
 	"author": "FarryDay",
