@@ -1,0 +1,24 @@
+{
+	"name": "bitfields-lib",
+	"version": "1.0.2",
+	"description": "Библиотека для работы с флагами",
+	"license": "MIT",
+	"author": "FarryDay",
+	"type": "commonjs",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"build": "tsc",
+		"dev": "tsc --watch"
+	},
+	"devDependencies": {
+		"@types/jest": "^30.0.0",
+		"@types/node": "^24.1.0",
+		"jest": "^30.0.5",
+		"ts-jest": "^29.4.0",
+		"typescript": "^5.8.3"
+	},
+	"dependencies": {
+		"ts-node": "^10.9.2"
+	}
+}
